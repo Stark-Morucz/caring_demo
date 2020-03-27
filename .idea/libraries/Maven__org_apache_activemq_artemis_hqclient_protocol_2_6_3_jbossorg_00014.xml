@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.activemq:artemis-hqclient-protocol:2.6.3.jbossorg-00014">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/activemq/artemis-hqclient-protocol/2.6.3.jbossorg-00014/artemis-hqclient-protocol-2.6.3.jbossorg-00014.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/activemq/artemis-hqclient-protocol/2.6.3.jbossorg-00014/artemis-hqclient-protocol-2.6.3.jbossorg-00014-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/activemq/artemis-hqclient-protocol/2.6.3.jbossorg-00014/artemis-hqclient-protocol-2.6.3.jbossorg-00014-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
